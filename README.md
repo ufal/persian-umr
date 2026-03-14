@@ -1,1 +1,1 @@
-# persian-umr
+# Persian UMR Corpus
