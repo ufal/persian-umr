@@ -1993,7 +1993,7 @@ Words: آخر خانه من خیلی کوچک است .
 
 # sentence level graph:
 (s96c / cause-01
-      :ARG0 (h/ have-mod-91
+      :ARG0 (s96h / have-mod-91
 	        :ARG1 (s96x3 / خانه
                   :poss (s96x2 / من))
 	        :ARG2 (s96x / کوچک
@@ -2205,7 +2205,7 @@ Words: باری همینکه او اول بار هواپیمای مرا دید (
 # sentence level graph:
 (s107x / پرسیدن
       :ARG0 (s107x2 / او)
-	  :ARG1 (i/ identity-91 :mode Interrogative
+	  :ARG1 (s107i / identity-91 :mode Interrogative
 		    :ARG0 (s107x3 / این)
             :ARG1 (s107u / umr-unknown))
       :temporal (s107x4 / دیدن
