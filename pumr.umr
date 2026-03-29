@@ -17255,8 +17255,7 @@ Words: شازده کوچولو پرسید : این دیگر چرا ؟
 # sentence level graph:
 (s864x / پرسیدن :mode interrogative
       :ARG0 (s864x2 / شازده
-            :mod (s864x3 / کوچولو))
-      :ARG1 (:cause (s864u / umr-unknown)))
+            :mod (s864x3 / کوچولو)))
 
 # alignment:
 
