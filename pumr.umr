@@ -1223,7 +1223,7 @@ Words: به نظرم هم نمی‌آمد که این آدمک کوچولو را
                   :ARG1 (s57x8 / راه))
             :op2 (s57x9 / ازپاافتادن
                   :ARG0 s57x5
-                  :cause (x3
+                  :cause (s57x15 / یا
                         :op1 (s57x11 / خستگی)
                         :op2 (s57x12 / گرسنگی)
                         :op3 (s57x13 / تشنگی)
@@ -1459,7 +1459,7 @@ Words: بنابراین یکی از آن دو تصویر را که بلد بود
 		    :ARG0 (s67x2 / من)
 		    :ARG1 (s67x3 / تصویر
 				  :quant 1
-				  :ARG1-of (x3
+				  :ARG1-of (s67x7 / تصویر
 					    :quant 2
 					    :ARG1-of (s67x5 / بلدبودن
 							  :ARG0 s67x2)))
@@ -2205,7 +2205,7 @@ Words: باری همینکه او اول بار هواپیمای مرا دید (
 # sentence level graph:
 (s107x / پرسیدن
       :ARG0 (s107x2 / او)
-	  :ARG1 (s107i / identity-91 :mode Interrogative
+	  :ARG1 (s107i / identity-91 :mode interrogative
 		    :ARG0 (s107x3 / این)
             :ARG1 (s107u / umr-unknown))
       :temporal (s107x4 / دیدن
@@ -2213,11 +2213,11 @@ Words: باری همینکه او اول بار هواپیمای مرا دید (
             :ARG1 (s107x5 / هواپیما
                   :poss (s107x6 / من)
                   :ARG2-of (s107x7 / ‌کشیدن :polarity -
-				        :ARG0 s107x5
+		        :ARG0 s107x5
                         :cause (s107h / have-mod-91
-                              :ARG1 (s107x7 / ‌کشیدن
-							        :ARG0 s107x6
-							  :ARG2 (s107x8 / دشوار
+                              :ARG1 (s107x10 / ‌کشیدن
+			          :ARG0 s107x6
+			          :ARG2 (s107x8 / دشوار
                                     :degree (s107x9 / بسیار)))))
             :ord (s107o / ordinal-entity :value 1))))
 
